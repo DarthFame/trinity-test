@@ -1,2 +1,2 @@
 # trinity-test
-test readme
+test proj
